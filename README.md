@@ -1,4 +1,4 @@
-# DDI_Practica4_200931
+# DDI_Tarea3_200931
 Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación
 En esta práctica realizada en Android Studio, se desarrolló una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación. 
 A continuación, se describe el proceso seguido para llevar a cabo esta tarea.
