@@ -1,5 +1,21 @@
 # DDI_Tarea3_200931
 Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación
+# Universidad Tecnológica de Xicotepec de Juárez
+
+## Ingeniería en Desarrollo y Gestión de Software
+## Uriel Maldonado Cortez
+## 9A
+### Desarrollo de Dispositivos Inteligentes
+
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre | **Tarea 3* Fuente, Animacion, Imagen* |
+| Descripción  | Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación.  |
+|  Fecha de Carga | 24/05/23  |
+
+
 En esta práctica realizada en Android Studio, se desarrolló una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación. 
 A continuación, se describe el proceso seguido para llevar a cabo esta tarea.
 
